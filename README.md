@@ -71,7 +71,18 @@ Our product is a simple, privacy-focused Habit Tracker & Reminder app that empow
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+### User Stories:
+1. As a user, I want to be able to easily add a new habit with minimal steps so that I can easily track my habits.
+2. As a user, I want to receive notifications related to my habit so that I can have an easier time adhering to the habit.
+3. As a user, I want to be able to see my habit progress in a visually pleasing format so that I can remain motivated in forming/maintaining the habit.
+4. As a user, I want to be able to pause or update my habits without losing progress so that I do not feel discouraged from changing them to fit my needs.
+5. As a user, I want to be able to share my progress with selected habits amongst friends so that I can increase my motivation.
+6. As a user, I want a simple and natural-feeling interface so that I can use the app with ease/without being overwhelmed.
+7. As a user, I would like to be able to categorize my habits by category (academic, work, personal, interpersonal, etc), so that I can keep my habits neatly organized.
+8. As a user, I would like to easily navigate between habits so that I do not waste time clicking through screens.
+9. As a user, I would like to have complete control over the notification system of the app so that I receive notifications at times that work for me and support the formation of my habits.
+10. As a user, I would like to have a mascot (akin to a tamagotchi or Duo from Duolingo), so that I have a stronger desire to check-in and maintain my habits.
+11. As a user, I do not want my experience to be full of gimmicky elements so that I do not find the experience overwhelming.
 
 ## Activity Diagrams
 
