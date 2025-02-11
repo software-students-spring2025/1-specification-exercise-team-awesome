@@ -86,7 +86,13 @@ Our product is a simple, privacy-focused Habit Tracker & Reminder app that empow
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+“As a user, I want to be able to pause or update my habits without losing progress so that I do not feel discouraged from changing them to fit my needs.”
+
+![Image of the 1st diagram](./diagrams/uml1.png)
+
+"As a user, I would like to have complete control over the notification system of the app so that I receive notifications at times that work for me and support the formation of my habits."
+
+![Image of the 2nd diagram](./diagrams/uml2.png)
 
 ## Clickable Prototype
 
