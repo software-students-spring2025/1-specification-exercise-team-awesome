@@ -94,7 +94,10 @@ Alex expressed that while multiple digital tools help manage academic schedules 
 
 ![Image of the 2nd diagram](./diagrams/uml2.png)
 
+## Wireframes
+
+[The link to wireframes](https://www.figma.com/design/0GcCOLqIAPqkRZBj46tfAY/Team-Awesome?node-id=0-1&p=f&t=p2dBjltyaslNkA2Y-0)
+
 ## Clickable Prototype
 
 [The link to prototype in figma (newest version)](https://www.figma.com/proto/0GcCOLqIAPqkRZBj46tfAY/Team-Awesome?node-id=63-299&p=f&t=p2dBjltyaslNkA2Y-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=63%3A299&show-proto-sidebar=1)
-[The link to wireframe](https://www.figma.com/design/0GcCOLqIAPqkRZBj46tfAY/Team-Awesome?node-id=0-1&p=f&t=p2dBjltyaslNkA2Y-0)
