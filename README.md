@@ -96,4 +96,4 @@ Our product is a simple, privacy-focused Habit Tracker & Reminder app that empow
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[The link to wireframe in figma](https://www.figma.com/design/0GcCOLqIAPqkRZBj46tfAY/Team-Awesome?t=1HXnKVnGx8BnaP6b-0)
