@@ -2,9 +2,9 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Habit Tracker & Reminder App
+## **HabitMinder** - Habit Tracker & Reminder App
 
-The Habit Tracker & Reminder app is a simple, privacy-focused tool designed for busy individuals, students, and self-improvement enthusiasts. It enables users to quickly create and manage habits, receive timely local notifications, and track progress through visual cues like streaks and calendar views. Optional social accountability features allow friends to share in the journey—all while keeping data stored locally to ensure a frictionless, secure experience.
+**HabitMinder** is the Habit Tracker & Reminder app. It is a simple, privacy-focused tool designed for busy individuals, students, and self-improvement enthusiasts. It enables users to quickly create and manage habits, receive timely local notifications, and track progress through visual cues like streaks and calendar views. Optional social accountability features allow friends to share in the journey—all while keeping data stored locally to ensure a frictionless, secure experience.
 
 
 
@@ -67,7 +67,7 @@ Alex expressed that while multiple digital tools help manage academic schedules 
 
 ## Product Vision Statement
 
-Our product is a simple, privacy-focused Habit Tracker & Reminder app that empowers busy individuals to effortlessly build and maintain positive routines through intuitive habit creation, timely local notifications, and visual progress tracking.
+**HabitMinder** is a simple, privacy-focused Habit Tracker & Reminder app that empowers busy individuals to effortlessly build and maintain positive routines through intuitive habit creation, timely local notifications, and visual progress tracking.
 
 ## User Requirements
 
