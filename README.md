@@ -96,4 +96,4 @@ Alex expressed that while multiple digital tools help manage academic schedules 
 
 ## Clickable Prototype
 
-[The link to wireframe in figma](https://www.figma.com/design/0GcCOLqIAPqkRZBj46tfAY/Team-Awesome?t=1HXnKVnGx8BnaP6b-0)
+[The link to wireframe in figma (newest version)](https://www.figma.com/design/0GcCOLqIAPqkRZBj46tfAY/Team-Awesome?t=1HXnKVnGx8BnaP6b-0)
